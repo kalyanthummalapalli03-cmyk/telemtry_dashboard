@@ -1,0 +1,3 @@
+case_nbr,case_subject,case_description,recommendation_values
+209301297,Dell Online ISG SelfRepair Request,#DellEasyButton | Issue: Hard drive & RAID controllers. | Issue Summary: Predictive failure reported for Disk 2 in Backplane 1 of RAID Controller in Slot 5. Part Number = PH-01W7HC-TB200-255-M3BU-A03. |  ErrorCode:PDR16; ServiceType: Parts and Labor,['HARD DRIVE' 'T8060' '000126418']
+209468636,HDD slot 10 | R860 | Case#: 209468636 | ProSupport 4hr |  | Tag: G0D2674,HDD and DIMM issue.   Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4  A diagnostic warning event occurred in the memory device at A1   The BIOS of the server has been updated to the latest version,['MEMORY' 'HARD DRIVE' '000126418']

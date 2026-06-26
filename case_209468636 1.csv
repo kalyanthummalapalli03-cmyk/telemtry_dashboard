@@ -1,0 +1,140 @@
+case_nbr,messageid,severity,message,timestamp
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-04-22 14:41:22
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-04-23 14:41:25
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-04-24 14:41:27
+209468636,CTL37,Informational,A Patrol Read operation started for RAID Controller in SL 4.,2025-04-25 02:00:40
+209468636,CTL38,Informational,The Patrol Read operation completed for RAID Controller in SL 4.,2025-04-25 05:42:57
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-04-25 14:41:32
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-04-26 14:41:34
+209468636,NIC101,Informational,The NIC in Slot 5 Port 4 network link is started.,2025-04-26 17:08:17
+209468636,NIC101,Informational,The NIC in Slot 5 Port 1 network link is started.,2025-04-26 17:08:17
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-04-27 14:41:38
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-04-28 14:41:39
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-04-29 14:41:40
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-04-30 14:41:41
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-05-01 14:41:42
+209468636,CTL37,Informational,A Patrol Read operation started for RAID Controller in SL 4.,2025-05-02 02:00:27
+209468636,CTL38,Informational,The Patrol Read operation completed for RAID Controller in SL 4.,2025-05-02 05:40:43
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-05-02 14:41:46
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-05-03 14:41:49
+209468636,PST0091,Informational,A problem was detected in Memory Reference Code (MRC).,2025-05-04 00:53:43
+209468636,MEM6102,Warning,A diagnostic warning event occurred in the memory device at A1. Reseat the device. (Extended ID: 0x52D2).,2025-05-04 00:53:45
+209468636,PDR1002,Warning,A predictive failure detected on drive 10 in disk drive bay 1.,2025-05-04 00:53:49
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-05-04 00:54:23
+209468636,UEFI0339,Critical,The Dual Inline Memory Module (DIMM) in the memory slot A1 is disabled because of initialization errors.,2025-05-04 00:54:39
+209468636,USR0032,Informational,The session for root from 165.0.108.49 using GUI is logged off.,2025-05-04 01:12:59
+209468636,USR0030,Informational,"Successfully logged in using root, from 165.0.108.49 and GUI.",2025-05-04 01:14:02
+209468636,USR0030,Informational,"Successfully logged in using root, from 165.0.108.49 and eHTML5 Virtual Console.",2025-05-04 01:14:16
+209468636,PR36,Informational,"Version change detected for BIOS firmware. Previous version:2.4.4, Current version:2.5.4",2025-05-04 01:15:54
+209468636,USR0032,Informational,The session for root from 165.0.108.49 using eHTML5 Virtual Console is logged off.,2025-05-04 01:15:56
+209468636,LOG007,Informational,The previous log entry was repeated 1 times.,2025-05-04 01:16:16
+209468636,JCP037,Informational,The (installation or configuration) job JID_463224942178 is successfully completed.,2025-05-04 01:16:16
+209468636,SYS336,Informational,An existing hash value is updated because some system configuration items are changed.,2025-05-04 01:16:54
+209468636,RED002,Informational,Package successfully downloaded.,2025-05-04 01:19:43
+209468636,LOG007,Informational,The previous log entry was repeated 4 times.,2025-05-04 01:19:43
+209468636,RED052,Informational,Processing of update packages is starting.,2025-05-04 01:20:23
+209468636,RED110,Informational,Downloading the iDRAC-with-Lifecycle-Controller_Firmware_R8V2F_WN64_7.20.30.00_A00.EXE update package.,2025-05-04 01:20:23
+209468636,JCP027,Informational,The (installation or configuration) job JID_463216232795 is successfully created on iDRAC.,2025-05-04 01:20:23
+209468636,RED054,Informational,An update job JID_463216232795 was created.,2025-05-04 01:20:24
+209468636,USR0030,Informational,"Successfully logged in using root, from 165.0.108.49 and eHTML5 Virtual Console.",2025-05-04 01:21:02
+209468636,USR0032,Informational,The session for root from 165.0.108.49 using eHTML5 Virtual Console is logged off.,2025-05-04 01:21:29
+209468636,LOG007,Informational,The previous log entry was repeated 1 times.,2025-05-04 01:22:12
+209468636,NIC100,Warning,The NIC in Slot 5 Port 1 network link is down.,2025-05-04 01:22:12
+209468636,NIC100,Warning,The NIC in Slot 5 Port 4 network link is down.,2025-05-04 01:22:12
+209468636,NIC101,Informational,The NIC in Slot 5 Port 4 network link is started.,2025-05-04 01:22:40
+209468636,NIC101,Informational,The NIC in Slot 5 Port 1 network link is started.,2025-05-04 01:22:40
+209468636,SUP1911,Informational,Firmware update initialization complete.,2025-05-04 01:24:47
+209468636,SUP1904,Informational,Firmware update checksumming image.,2025-05-04 01:24:47
+209468636,SUP1903,Informational,Firmware update verify image headers.,2025-05-04 01:24:47
+209468636,SUP1901,Informational,Firmware update initializing.,2025-05-04 01:24:47
+209468636,SUP1905,Informational,Firmware update programming flash.,2025-05-04 01:25:01
+209468636,SUP1906,Informational,Firmware update successful.,2025-05-04 01:25:38
+209468636,JCP037,Informational,The (installation or configuration) job JID_463216232795 is successfully completed.,2025-05-04 01:25:42
+209468636,RED063,Informational,"The iDRAC firmware updated successfully. Previous version: 7.10.90.00, Current version: 7.20.30.00",2025-05-04 01:25:42
+209468636,USR0032,Informational,The session for root from 165.0.108.49 using GUI is logged off.,2025-05-04 01:26:09
+209468636,PR36,Informational,"Version change detected for Lifecycle Controller firmware. Previous version:7.10.90.00, Current version:7.20.30.00",2025-05-04 01:28:47
+209468636,IPA0100,Informational,The iDRAC IP Address changed from 0.0.0.0 to 163.195.4.236.,2025-05-04 01:28:54
+209468636,DIS002,Informational,Auto Discovery feature disabled.,2025-05-04 01:29:06
+209468636,RAC0182,Informational,The iDRAC firmware was rebooted with the following reason: user initiated.,2025-05-04 01:29:06
+209468636,PDR1002,Warning,A predictive failure detected on drive 10 in disk drive bay 1.,2025-05-04 01:29:21
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-05-04 01:29:53
+209468636,USR0030,Informational,"Successfully logged in using root, from 165.0.108.49 and GUI.",2025-05-04 01:30:13
+209468636,MEM6102,Warning,A diagnostic warning event occurred in the memory device with Serial No: 49575868 and Part No: MTC40F2046S1RC56BD1 at A1. Reseat the device (Extended ID: 0x52D2).,2025-05-04 01:30:48
+209468636,IPA0100,Informational,The iDRAC IP Address changed from 0.0.0.0 to 163.195.4.236.,2025-05-04 01:32:29
+209468636,RED002,Informational,Package successfully downloaded.,2025-05-04 01:32:42
+209468636,RED110,Informational,Downloading the SAS-RAID_Firmware_9246X_WN64_8.11.0.0.18-25_A09.EXE update package.,2025-05-04 01:32:56
+209468636,RED052,Informational,Processing of update packages is starting.,2025-05-04 01:32:56
+209468636,JCP027,Informational,The (installation or configuration) job JID_463223761539 is successfully created on iDRAC.,2025-05-04 01:32:56
+209468636,RED054,Informational,An update job JID_463223761539 was created.,2025-05-04 01:32:57
+209468636,RED002,Informational,Package successfully downloaded.,2025-05-04 01:32:59
+209468636,USR0030,Informational,"Successfully logged in using root, from 165.0.108.49 and GUI.",2025-05-04 01:33:02
+209468636,SUP0516,Informational,Updating firmware for RAID Controller in SL 4 to version 8.11.0.0.18-25.,2025-05-04 01:33:09
+209468636,RED002,Informational,Package successfully downloaded.,2025-05-04 01:34:45
+209468636,RED052,Informational,Processing of update packages is starting.,2025-05-04 01:34:54
+209468636,RED110,Informational,Downloading the BIOS_K77XK_WN64_2.5.4.EXE update package.,2025-05-04 01:34:54
+209468636,JCP027,Informational,The (installation or configuration) job JID_463224942178 is successfully created on iDRAC.,2025-05-04 01:34:54
+209468636,RED054,Informational,An update job JID_463224942178 was created.,2025-05-04 01:34:55
+209468636,RED002,Informational,Package successfully downloaded.,2025-05-04 01:35:05
+209468636,RED029,Informational,A reboot is pending.,2025-05-04 01:35:10
+209468636,JCP027,Informational,The (installation or configuration) job RID_463225103998 is successfully created on iDRAC.,2025-05-04 01:35:10
+209468636,RED055,Informational,A reboot job RID_463225103998 was created.,2025-05-04 01:35:10
+209468636,RAC0705,Informational,Requested system graceful shutdown.,2025-05-04 01:35:14
+209468636,SYS1005,Informational,The server power action is initiated because the management controller initiated a power-down operation.,2025-05-04 01:35:54
+209468636,SYS1001,Informational,System is turning off.,2025-05-04 01:35:55
+209468636,SYS1003,Informational,System CPU Resetting.,2025-05-04 01:35:55
+209468636,RAC0701,Informational,Requested system powerup.,2025-05-04 01:35:59
+209468636,RED030,Informational,Reboot is complete.,2025-05-04 01:36:04
+209468636,SYS1000,Informational,System is turning on.,2025-05-04 01:36:26
+209468636,PDR1017,Informational,Drive 10 in disk drive bay 1 is operating normally.,2025-05-04 01:36:35
+209468636,SYS1003,Informational,System CPU Resetting.,2025-05-04 01:36:46
+209468636,USR0032,Informational,The session for root from 165.0.108.49 using GUI is logged off.,2025-05-04 01:37:42
+209468636,LOG007,Informational,The previous log entry was repeated 1 times.,2025-05-04 01:38:30
+209468636,PDR1002,Warning,A predictive failure detected on drive 10 in disk drive bay 1.,2025-05-04 01:38:30
+209468636,SUP0516,Informational,Updating firmware for PowerEdge BIOS to version 2.5.4.,2025-05-04 01:38:43
+209468636,SYS1003,Informational,System CPU Resetting.,2025-05-04 01:42:52
+209468636,SYS1005,Informational,The server power action is initiated because the host device initiated a power-down operation.,2025-05-04 01:42:52
+209468636,SUP0518,Informational,Successfully updated the PowerEdge BIOS firmware to version 2.5.4.,2025-05-04 01:42:52
+209468636,SYS1001,Informational,System is turning off.,2025-05-04 01:42:52
+209468636,SUP0518,Informational,Successfully updated the RAID Controller in SL 4 firmware to version 8.11.0.0.18-25.,2025-05-04 01:42:58
+209468636,JCP037,Informational,The (installation or configuration) job JID_463223761539 is successfully completed.,2025-05-04 01:42:58
+209468636,SWU8672,Informational,The controller in slot RAID Controller in SL 4 has completed the firmware update operation successfully.,2025-05-04 01:43:08
+209468636,SYS1000,Informational,System is turning on.,2025-05-04 01:43:24
+209468636,SYS1003,Informational,System CPU Resetting.,2025-05-04 01:43:33
+209468636,PDR1017,Informational,Drive 10 in disk drive bay 1 is operating normally.,2025-05-04 01:43:35
+209468636,PR36,Informational,"Version change detected for PERC H965i Front firmware. Previous version:8.8.0.0.18-26, Current version:8.11.0.0.18-25",2025-05-04 01:44:01
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-05-04 01:44:01
+209468636,SYS1003,Informational,System CPU Resetting.,2025-05-04 01:48:05
+209468636,LOG007,Informational,The previous log entry was repeated 1 times.,2025-05-04 01:53:35
+209468636,SYS1005,Informational,The server power action is initiated because the host device initiated a warm-reset operation.,2025-05-04 01:53:35
+209468636,USR0030,Informational,"Successfully logged in using root, from 165.0.108.49 and GUI.",2025-05-04 12:27:06
+209468636,RAC1195,Informational,User root via IP 165.0.108.49 requested state / configuration change to System Event Log using GUI.,2025-05-04 12:28:35
+209468636,SEL0014,Informational,The System Event Log (SEL) was cleared by root from 165.0.108.49.,2025-05-04 12:28:35
+209468636,SEL0004,Informational,Log cleared.,2025-05-04 12:28:36
+209468636,USR0030,Informational,"Successfully logged in using root, from 165.0.108.49 and eHTML5 Virtual Console.",2025-05-04 12:29:19
+209468636,RAC1195,Informational,User root via IP 165.0.108.49 requested state / configuration change to Power Control using eHTML5 Virtual Console.,2025-05-04 12:29:32
+209468636,RAC0703,Informational,Requested system hardreset.,2025-05-04 12:29:33
+209468636,SYS1003,Informational,System CPU Resetting.,2025-05-04 12:29:33
+209468636,SYS1005,Informational,The server power action is initiated because the management controller initiated a hard-reset operation.,2025-05-04 12:29:33
+209468636,USR0032,Informational,The session for root from 165.0.108.49 using eHTML5 Virtual Console is logged off.,2025-05-04 12:29:38
+209468636,LOG007,Informational,The previous log entry was repeated 1 times.,2025-05-04 12:30:27
+209468636,PST0091,Informational,A problem was detected in Memory Reference Code (MRC).,2025-05-04 12:30:27
+209468636,MEM6102,Warning,A diagnostic warning event occurred in the memory device with Serial No: 49575868 and Part No: MTC40F2046S1RC56BD1 at A1. Reseat the device (Extended ID: 0x52D2).,2025-05-04 12:30:30
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-05-04 12:31:19
+209468636,UEFI0339,Critical,The Dual Inline Memory Module (DIMM) in the memory slot A1 is disabled because of initialization errors.,2025-05-04 12:31:40
+209468636,USR0030,Informational,"Successfully logged in using root, from 165.0.108.49 and eHTML5 Virtual Console.",2025-05-04 12:33:31
+209468636,USR0032,Informational,The session for root from 165.0.108.49 using eHTML5 Virtual Console is logged off.,2025-05-04 12:35:08
+209468636,LOG007,Informational,The previous log entry was repeated 1 times.,2025-05-04 12:35:22
+209468636,USR0032,Informational,The session for root from 165.0.108.49 using GUI is logged off.,2025-05-04 12:35:22
+209468636,PDR16,Warning,Predictive failure reported for Disk 10 in Backplane 1 of RAID Controller in SL 4. Part Number = PH-0F9NWJ-TB200-48R-8Y2Y-A05,2025-05-05 01:29:12
+209468636,USR0030,Informational,"Successfully logged in using root, from 165.0.108.49 and GUI.",2025-05-05 15:17:39
+209468636,SRV074,Informational,The SupportAssist End User License Agreement (EULA) is accepted by iDRAC user root via iDRAC interface iDRAC_GUI.,2025-05-05 15:23:35
+209468636,SRV001,Informational,The SupportAssist Collection operation is started by iDRAC_GUI.,2025-05-05 15:23:36
+209468636,SRV087,Informational,The SupportAssist Collection Job JID_464586159935 is successfully created.,2025-05-05 15:23:36
+209468636,SRV006,Informational,The SupportAssist System information collection operation is started.,2025-05-05 15:23:36
+209468636,SRV050,Informational,The Debug Logs collection operation is started for SupportAssist.,2025-05-05 15:31:07
+209468636,SYS336,Informational,An existing hash value is updated because some system configuration items are changed.,2025-05-05 15:31:08
+209468636,SRV051,Informational,The Debug Logs collection operation is successfully completed for SupportAssist.,2025-05-05 15:32:46
+209468636,SRV010,Informational,The SupportAssist Storage Controller Logs collection operation is started.,2025-05-05 15:35:53
+209468636,SRV011,Informational,The SupportAssist Storage Controller Logs collection operation is completed.,2025-05-05 15:36:13
+209468636,SRV014,Informational,"Controller log is not supported for AHCI.Embedded.2-1, however SMART Logs are collected if applicable for the drives attached.",2025-05-05 15:36:13
+209468636,SRV014,Informational,"Controller log is not supported for AHCI.Embedded.1-1, however SMART Logs are collected if applicable for the drives attached.",2025-05-05 15:36:13
